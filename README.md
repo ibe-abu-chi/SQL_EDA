@@ -1,3 +1,3 @@
 # SQL_EDA
-THIS IS A DATAMINING AND EDA USING SQL
-THIS PROJECT USED A DUMMY DATA OF company_sales having three tables (Customertable, Stafftable, Salestabble)
+THIS IS A DATA MINING AND EDA USING mySQL
+THIS PROJECT USED A DUMMY DATA OF company_sales CREATED FOR THE PURPOSE OF THIS PROJECT (Customertable (20 x 6), Stafftable(9 x 4), Salestabble(574 x 6))
